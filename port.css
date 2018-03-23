@@ -1,0 +1,170 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	}
+
+#header{
+	height: 60px;
+	width: 970px;
+	background-color: #e6e6e6;
+	display: block;
+	margin: auto;
+	padding-top: 10px;
+	padding-left: 30px;
+	
+	overflow: hidden;
+	box-sizing: border-box;
+	
+}
+
+
+
+#content{
+	background-color: #270c1a;
+	width: 970px;
+	padding: 10px;
+	height: auto;
+	overflow: hidden;
+	margin: auto;
+	background: radial-gradient( #e19dc0 ,  #270c1a );
+	box-sizing: border-box;
+}
+.footer{
+	height: 70px;
+	width: 970px;
+	background-color: #e6e6e6;
+	display: block;
+	margin: 0 auto;
+	padding: 10px;
+	box-sizing: border-box;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+#heading{
+	font-family: "Times New Roman", Times, serif;
+	text-align: right;
+	display: inline-block;
+	margin-left: 350px;
+	box-sizing: border-box;
+
+
+}
+
+#name{
+	font-family: Comic Sans MS;
+	display: inline-block;
+	margin right: 50px;
+
+}
+#profileimg{
+	height: 260px;
+	width: 380px;
+	display: inline-block;
+	
+	margin: 10px;
+	border:5px;
+	border-style: solid;
+	border-color: #808080;
+}
+#about{
+	display: inline-block;
+	height: 260px;
+	width: 510px;
+	margin: 10px;
+	
+	background-color: #ffe6ff;
+	/*padding: 0 0 5px 0;*/
+	box-sizing: border-box;
+	vertical-align: top;
+
+
+}
+.nav{width: auto;
+	height: 40px;
+	display: block;
+	/*background-color: #a6a6a6;*/
+	background: linear-gradient(#b3b3b3, #666666, #b3b3b3);
+	padding: 10px;
+	font-family: Arial, sans-serif;
+	color: white;
+	font-weight: 300;
+	box-sizing: border-box;
+	/*margin-bottom: 10px;*/
+
+
+}
+.para{
+	font-family: Arial Narrow, sans-serif;
+	margin: 10px;
+	font-size: 17px;
+	color:black;
+	text-align: justify;
+
+
+
+
+}
+.contbox{
+	height: 400px;
+	width: 289px;
+	background-color: #ffe6ff;
+	
+	display: inline-block;
+	margin: 10px 10px 0 10px;
+	vertical-align: top;
+	
+}
+.proimg{
+	height: 150px;
+	width: 289px;
+	display: block;
+
+
+}
+.smallcont{
+	height: 200px;
+	width: 289px;
+	display: inline-block;
+	margin: 0 10px 10px 10px;
+	background-color: #ffe6ff;
+	vertical-align: top;
+}
+.smallimg{
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	margin: 5px;
+
+}
+.centre{
+	padding: 10px 10px;
+	box-sizing: border-box;
+}
+.space{
+	margin-bottom: 10px;
+}
+.buto{
+	background-color: #387D63;
+	color: white;
+	border-radius: 10px;
+	border: 2px  solid #476057;
+	padding: 5px 5px;
+	font-size: 12px;
+	display: block;
+	margin: 0 auto; 
+
+
+
+
+}
+.footer img{
+	height: 20px;
+	width: 20px;
+
+}
+.footer a{
+	color: black;
+	font-style: italic;
+}
